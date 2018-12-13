@@ -1,7 +1,7 @@
 # TL-MR6400-reboot
 TL-MR6400 automated reboot after connection loss
 
-My TL-MR6400 router is losing LTE connection every now and then only reboot helps by that time.
+My TL-MR6400 router is losing LTE connection every now and then and only reboot helps to make it work again.
 This script is checking whether we are still online and reboots the router when we are not.
 It's dirty but it works.
 
