@@ -1,6 +1,6 @@
 #!/bin/bash
 # 2018-05-27 Tomas Zatko https://keybase.io/wo_ody
-# TL-MR6400 is losing LTE connection every now and then only reboot helps by that time.
+# TL-MR6400 is losing LTE connection every now and then and only reboot helps to make it work again.
 # This script is checking whether we are still online and reboots the router when we are not.
 # It's dirty but it works. 
 #
