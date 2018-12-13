@@ -4,7 +4,7 @@
 # This script is checking whether we are still online and reboots the router when we are not.
 # It's dirty but it works. 
 #
-# You need to change the the Authorization HTTP header manually
+# You need to change the Authorization HTTP header manually
 # -b $'Authorization=Basic%20VVNFUk5BTUU6UEFTU1dPUkQ=' is just dummy USERNAME:PASSWORD
 # Change it to your actual credentials
 # Of course you need to change the IP to your actuall IP as well
